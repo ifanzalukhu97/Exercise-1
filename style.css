@@ -1,0 +1,30 @@
+body {
+    background-color: #003c8f;
+}
+
+.warna-utama {
+    background-color: #5e92f3;
+}
+
+.warna-kedua {
+    background-color: #1565c0;
+}
+
+.foto {
+    padding: 40px;   
+}
+
+.rounded-circle {
+    border: 5px solid #5e92f3;
+}
+
+.nama {
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 12px;
+}
+
+.sub-container {
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 12px;
+}
